@@ -61,18 +61,18 @@ https://scikit-learn.org/stable/
 ### Data Cleaning
 The first thing to do is work with the data, to clean it and transform it to extract more meaningful features
 for the predictive model, sci-kit learn library helps with that, combined with numpy, pandas and 
-plotly is possible to build the predictive model
+pyplot is possible to build the predictive model
 
 
 ### results
- n features | f1  | accuracy
+ n features | f1  | accuracy | ROC 
  10         .55    .92     .82  \
  20         .56    .93     .83  \
  30         .56    .93     .84  \
  40         .56    .93     .84  \
  50         .56    .93     .84  \
  60         .56    .93     .84  \
- 73         .56    .93     .84  \
+ 73         .56    .93     .84  
 
 
 ## License
