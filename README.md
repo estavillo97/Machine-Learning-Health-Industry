@@ -64,6 +64,16 @@ for the predictive model, sci-kit learn library helps with that, combined with n
 plotly is possible to build the predictive model
 
 
+### results
+# n features | f1  | accuracy
+# 10         .55    .92     .82
+# 20         .56    .93     .83
+# 30         .56    .93     .84
+# 40         .56    .93     .84
+# 50         .56    .93     .84
+# 60         .56    .93     .84
+# 73         .56    .93     .84
+
 
 ## License
  
