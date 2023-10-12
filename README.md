@@ -20,6 +20,35 @@ command in your terminal.
 pip install -r requirements.txt
 ```
 
+# Setting up a Virtual Environment
+
+A virtual environment is recommended to isolate project dependencies and prevent conflicts with your system-wide packages. You can create a virtual environment using different tools. Choose one of the following methods:
+
+## Using pyenv (Recommended)
+
+1. **Install pyenv**: If you haven't already, install `pyenv` by following the instructions in the [official documentation](https://github.com/pyenv/pyenv#installation).
+
+2. **Create a Virtual Environment**: Open your project directory in the terminal and run the following commands to create a virtual environment.
+
+   ```bash
+   # Choose a Python version (e.g., 3.8.12)
+   pyenv install 3.8.12
+
+   # Create a virtual environment
+   pyenv virtualenv 3.8.12 myproject-env
+
+   # Activate the virtual environment
+   pyenv local myproject-env
+
+'''
+pip install virtualenv
+'''
+
+# Create a virtual environment (replace 'myproject-env' with your preferred name)
+virtualenv myproject-env
+
+# Activate the virtual environment
+source myproject-env/bin/activate
 
 
 ## Additional tools to get you started
