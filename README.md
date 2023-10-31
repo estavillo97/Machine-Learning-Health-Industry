@@ -1,10 +1,9 @@
-# Data-Scientist-Challenge
-Data Scientist Challenge for Mercado Libre
+# Random 
 by Juan Pablo Estavillo
 
 
 # Description
-The goal of this repository is to present the technical challenge given by Mercado Libre, 
+The goal of this repository is to present a random forest model
 providing with evidence of my proficiency in python and my ability to extract
 meaningful insights from complex data, and my creativity in approaching open-ended questions.
 
