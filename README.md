@@ -1,17 +1,14 @@
-# Random 
-by Juan Pablo Estavillo
-
 
 # Description
 The goal of this repository is to present a random forest model
-providing with evidence of my proficiency in python and my ability to extract
+providing evidence of my proficiency in Python and my ability to extract
 meaningful insights from complex data, and my creativity in approaching open-ended questions.
 
 
 ## Instalation
 
 ### Requirements
-In order to run the task notebooks, we must install the libraries used to solve the challenges from the file 
+To run the task notebooks, we must install the libraries used to solve the challenges from the file 
 'requirements.txt'using the following
 command in your terminal.
 
@@ -58,7 +55,7 @@ https://scikit-learn.org/stable/
 ## How To Use The Project
 
 ### Data Cleaning
-The first thing to do is work with the data, to clean it and transform it to extract more meaningful features
+The first thing to do is work with the data, clean it, and transform it to extract more meaningful features
 for the predictive model, sci-kit learn library helps with that, combined with numpy, pandas and 
 pyplot is possible to build the predictive model
 
